@@ -70,5 +70,5 @@ app.post("/failure", function(req, res){
 
 //Server PORT
 app.listen(process.env.PORT || 4000, function(){
-    console.log("Server Running On 4000")
+    console.log("Server Running On: 4000")
 });
