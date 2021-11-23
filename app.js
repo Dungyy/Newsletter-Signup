@@ -7,7 +7,6 @@ const https = require("https");
 
 require('dotenv').config();
 
-console.log(process.env);
 
 const app = express();
 
